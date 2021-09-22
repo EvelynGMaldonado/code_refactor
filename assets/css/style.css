@@ -130,13 +130,14 @@ p {
     font-size: 36px;
 }
 
+/* removed class since it was not longer needed*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* removed class since it was not longer needed*/
 footer h2 {
     font-size: 20px;
 }
