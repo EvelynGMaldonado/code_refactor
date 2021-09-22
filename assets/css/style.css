@@ -110,7 +110,7 @@ p {
     max-width: 150px;
 }
 
-
+/* created a new class called content-section to use instead of the search, online and social classes */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +120,7 @@ p {
     color: #ffffff;
 }
 
-
+/* created a content section img class to apply to all the images in the main part that were called search, online and social */
 .content-section img {
     max-height: 200px;
 }
