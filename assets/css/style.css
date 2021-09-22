@@ -87,16 +87,21 @@ p {
     background-color: #2589bd;
 }
 
+/* changed the name of the class for benefit-section for better organization and clarity */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* deleted benefit brand and benefit cost classes since all the style is covered in my benefit-section */
 
 .benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* deleted benefit brand and benefit cost h3 classes since all the style is covered in my benefit-section */
+/* deleted benefit brand and benefit cost img classes since all the style is covered in my benefit-section */
 
 
 .benefit-section img {
